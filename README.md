@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm Guru Saran M
+Hello, I'm Guru Saran M.
+
+I'm working on this intro section...
 
 <!--
 **gurusaranm0025/gurusaranm0025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
