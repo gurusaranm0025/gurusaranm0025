@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hello, I'm Guru Saran M.
 
 I'm working on this intro section...
